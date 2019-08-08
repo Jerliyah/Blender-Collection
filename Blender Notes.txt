@@ -1,0 +1,60 @@
+BLENDER KEY SHORTCUTS
+
+- Switch between Edit Mode and Object Mode
+Tab
+
+- Camera movement
+Middle mouse wheel
+
+- Scale
+S (optional: axis key)
+
+Axis
+- their relative key: x,y,z
+
+All Select, All Deselect
+A
+
+- Selector
+B
+
+- Extrude
+E (optional: axis key)
+
+- Go Slower (during extrude and such)
+Shift
+
+- Move object
+G (optional: axis key)
+
+- Rotate object
+R
+
+- Find perfect center of a face
+Shift S --> Cursor to Selected
+
+Seperate stuff into seperate object
+- Go to wireframe mode, select it with B or individual vertices and such, hit P, then Selection
+
+Duplicate with better control
+Modifier (in the right side menu, shaped like a wrench) --> Array modifier
+
+Those shaders!
+- In the right menu, under Materials, Surface, that "Glossy BSDF"!
+
+Create
+- Shift + A
+
+
+
+GENERAL NOTES
+- Use picture references of what you want to model
+- Set up your User Preferences (switch mouse side and emulate numpad)
+- Add objects in Object Mode, otherwise they will think they are part of 
+- To get things to be exact sizes, try duplication and eyeballing in orthographic view
+- Use Cycles render
+- To PROPERLY get better light, encapsulate everything in a skybox (light can bounce more)
+ -- or, CHEAP WAY, change light exposure
+- Add a tree by doing Shift+A, Curve, Sapling Tree Gen = Add bevel (check box)
+- DO NOT move the tree before done editing it
+
